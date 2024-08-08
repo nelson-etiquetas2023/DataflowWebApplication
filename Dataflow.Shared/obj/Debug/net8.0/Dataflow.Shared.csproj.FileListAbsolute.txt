@@ -5,6 +5,7 @@ C:\Users\User\source\repos\DataFlow\Dataflow.Shared\obj\Debug\net8.0\Dataflow.Sh
 C:\Users\User\source\repos\DataFlow\Dataflow.Shared\obj\Debug\net8.0\Dataflow.Shared.AssemblyInfoInputs.cache
 C:\Users\User\source\repos\DataFlow\Dataflow.Shared\obj\Debug\net8.0\Dataflow.Shared.AssemblyInfo.cs
 C:\Users\User\source\repos\DataFlow\Dataflow.Shared\obj\Debug\net8.0\Dataflow.Shared.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DataFlow\Dataflow.Shared\obj\Debug\net8.0\Dataflow.Shared.sourcelink.json
 C:\Users\User\source\repos\DataFlow\Dataflow.Shared\obj\Debug\net8.0\Dataflow.Shared.dll
 C:\Users\User\source\repos\DataFlow\Dataflow.Shared\obj\Debug\net8.0\refint\Dataflow.Shared.dll
 C:\Users\User\source\repos\DataFlow\Dataflow.Shared\obj\Debug\net8.0\Dataflow.Shared.pdb

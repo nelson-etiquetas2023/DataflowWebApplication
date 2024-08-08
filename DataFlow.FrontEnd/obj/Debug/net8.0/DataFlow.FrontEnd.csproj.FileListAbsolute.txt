@@ -1029,3 +1029,4 @@ C:\Users\User\source\repos\DataFlow\DataFlow.FrontEnd\obj\Debug\net8.0\DataFlow.
 C:\Users\User\source\repos\DataFlow\DataFlow.FrontEnd\obj\Debug\net8.0\refint\DataFlow.FrontEnd.dll
 C:\Users\User\source\repos\DataFlow\DataFlow.FrontEnd\obj\Debug\net8.0\DataFlow.FrontEnd.pdb
 C:\Users\User\source\repos\DataFlow\DataFlow.FrontEnd\obj\Debug\net8.0\ref\DataFlow.FrontEnd.dll
+C:\Users\User\source\repos\DataFlow\DataFlow.FrontEnd\obj\Debug\net8.0\DataFlow.FrontEnd.sourcelink.json

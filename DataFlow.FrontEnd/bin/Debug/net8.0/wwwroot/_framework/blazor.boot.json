@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "DataFlow.FrontEnd",
   "resources": {
-    "hash": "sha256-qAmQOtlFOv6Du9gMrFm/qjKy0E9rzfmiF5JUZN9b0RU=",
+    "hash": "sha256-rM84C3WvNGGiD024RMo41SrfdggvoS+LduWSW/bAY7g=",
     "jsModuleNative": {
       "dotnet.native.8.0.7.yd8uq5uw2q.js": "sha256-tFsxPBbhkdn6GKNBKvCRLzrfAHdyM86odYTe0MtrwMk="
     },
@@ -208,10 +208,10 @@
       "mscorlib.wasm": "sha256-fLbZiSHBNdpHoh4EgRqMaNP5NQyIK5TEj6AXFLqo8m8=",
       "netstandard.wasm": "sha256-d4xbAE8qrKq5euUoZHPO+jkYPjlCYBzUew45MKsYKic=",
       "System.Private.CoreLib.wasm": "sha256-8yi6NcX1lkNQgV4WKjnMBYIZyKh4P+OXnXVQmgxGZD4=",
-      "DataFlow.FrontEnd.wasm": "sha256-1gflMSu4qmt+idYMrQhUDWN1slDT6QwC6pClOSuWUXY="
+      "DataFlow.FrontEnd.wasm": "sha256-Kn4SHP6Jne6mQoEZesTPzqM46bOyPNdcxf/lovUdywc="
     },
     "pdb": {
-      "DataFlow.FrontEnd.pdb": "sha256-mCAbPAPfhcB/4S/gmQwmd/VXCs/9qxG0N+N4laVsewc="
+      "DataFlow.FrontEnd.pdb": "sha256-gOrxLhuGq1DLB0rQv9WQzwvv5q3XUTH410DOOiLSMMc="
     }
   },
   "cacheBootResources": true,

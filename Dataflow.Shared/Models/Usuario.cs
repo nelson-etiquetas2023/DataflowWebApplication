@@ -11,11 +11,17 @@ namespace Dataflow.Shared.Models
     {
         [Key]
         public int UserId { get; set; }
-        public string Name { get; set; } = null!;    
+        [Required]
+        public string Name { get; set; } = null!;
+        [Required]
         public string Email { get; set; }= null!;
+        [Required]
         public string Password { get; set; } = null!;
+        [Required]
         public string TypeUser { get; set; } = null!;
+        [Required]
         public string Departament { get; set; } = null!;
+        public string PhoneNumber { get; set; } = null!;
         public bool Active { get; set; }
 
     }
